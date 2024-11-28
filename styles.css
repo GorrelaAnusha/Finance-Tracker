@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d3e3f3;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+.currency-symbol {
+    font-weight: bold;
+    color: #343a40; 
+}
+
